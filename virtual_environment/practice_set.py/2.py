@@ -1,0 +1,5 @@
+name=input("enter your name")
+number=input("enter your phone number")
+marks=input("enter your marks")
+c="this is {0} ,he scored {1} and his mobile number is{2}".format(name,marks,number)
+print(c)
